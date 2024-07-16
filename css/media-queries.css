@@ -1,0 +1,95 @@
+@media screen and (max-width:420px){
+    .social-link a i{
+        margin-left: 10px;
+        transition: 0.5s ease;
+        cursor: pointer;
+        border: 1px solid rgba(238,224,208);
+        padding: 5px 5px;
+        border-radius: 50px;
+    
+    }
+    .social-link a i:hover{
+        background-color: rgba(238,224,208);
+        border-radius: 50px;
+        padding: 5px 5px;
+    }
+    .logo h3{
+        font-size: 20px;
+    }
+    .icons a i{
+        margin-left: 10px;
+        cursor: pointer;
+        border: 1px solid rgba(238,224,208);
+        padding: 5px 5px;
+        border-radius: 50px;
+    }
+    .icons a i:hover{
+        background-color: rgba(238,224,208);
+        border-radius: 50px;
+        padding: 5px 5px;
+    }
+    .content{
+        margin-top: 10px;
+        margin-left:10px ;
+    }
+    .content h1{
+        font-size: 30px;
+        text-align: center;
+
+    }
+    .content p{
+        color: aliceblue;
+        text-align: center;
+    }
+    #btn1 button{
+        width: 100px;
+        height: 32px;
+        background: transparent;
+        border: 1px solid rgb(250, 247, 247);
+        letter-spacing: 1px;
+        font-weight: bold;
+        transition: 0.5s ease;
+        color: white;
+    }
+    #btn1 button:hover{
+        background-color: green;
+    }
+    #btn2 button{
+        width: 50%;
+        height: 30px;
+        background: transparent;
+        border: 1px solid black;
+        transition: 0.5s ease;
+        cursor: pointer;
+    
+    }
+    #btn2 button:hover{
+        background-color: rgba(238,224,208);
+    
+    }
+    #btn3 button{
+        width: 50%;
+        height: 30px;
+        background-color: transparent;
+        border: 1px solid black;
+        transition: 0.5s ease;
+        cursor: pointer;
+    
+    }
+    #btn3 button:hover{
+        background-color: rgba(238,224,208);
+    }
+    #btn4 button{
+        width: 50%;
+        height: 30px;
+        background-color: transparent;
+        border: 1px solid black;
+        transition: 0.5s ease;
+        cursor: pointer;
+    
+    }
+    #btn4 button:hover{
+        background-color: rgba(238,224,208);
+    }
+
+}
